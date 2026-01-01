@@ -24,7 +24,12 @@ User Features
 - 💳 Stripe payment integration (**Test Mode**)  
 - 📦 Order history tracking  
 - 👤 User profile (name & email)  
-- 🔥 Real-time updates using Firestore streams  
+- 🔥 Real-time updates using Firestore streams
+ScreenShots
+![on](https://github.com/user-attachments/assets/1eda38ac-9dfe-4a58-9cff-751dd88a933f) ![lo](https://github.com/user-attachments/assets/595ffcdb-ade5-4c94-a29e-fbec46843b1a)  ![ho](https://github.com/user-attachments/assets/e14d4d59-813d-4aa6-aafa-cf6852cfd96f)  ![st](https://github.com/user-attachments/assets/43667ff4-0751-46e5-b15f-3b13f5148ef1)
+![pro](https://github.com/user-attachments/assets/7d396017-62b2-4513-8cbd-7d9f481e7037) ![ord](https://github.com/user-attachments/assets/91ecabd8-6462-4ae4-a432-3a1a8cb9c499)
+
+
 
 ---
 
