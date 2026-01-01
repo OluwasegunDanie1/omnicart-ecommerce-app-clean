@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35812697066",
+    "project_id": "omnicart-e5225",
+    "storage_bucket": "omnicart-e5225.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35812697066:android:e8381ee9488ee1a5b18893",
+        "android_client_info": {
+          "package_name": "com.example.omnicart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5YcGpeNYno5kWbbedAPSBixR84s1Xgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
